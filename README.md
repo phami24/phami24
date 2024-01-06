@@ -4,11 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=phami24&label=Profile%20views&color=0e75b6&style=flat" alt="phami24" /> </p>
 
-- 🌱 I’m currently learning **Aptech**
-
-- 💬 Ask me about **React, Spring Boot**
-
-- 📫 How to reach me **buibinhminhpham2004@gmail.com**
 <br>
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
