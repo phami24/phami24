@@ -4,7 +4,7 @@
 
 - A passionate Self-taught Front-end developer
 - Currently learning Web Development by Self
-- I’m currently open for an Intern or a new job opportunity
+
 
 <br>
 
